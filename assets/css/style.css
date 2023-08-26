@@ -1,0 +1,124 @@
+.home{
+    padding-bottom: 4rem;
+}
+.home-img{
+    height: 550px;
+    width: 100%;
+}
+
+.home-text{
+    right: 60%;
+    bottom: 15rem;
+    left: 7%;
+    padding-top: 1.25re;
+    padding-bottom: -1.75rem;
+    text-align: justify;
+    font-size: 30px;
+}
+.home-text h1{
+    font: 100px;
+}
+
+.home-text p{
+    color:white; 
+      
+    
+}
+
+
+
+.about{
+    background-color: #191919;
+}
+
+span{
+    color: #f9004d;
+}
+
+.about-img{
+    height: 400px;
+}
+.about-text{
+    color: white;
+    padding-top: 5rem;
+}
+.about-text h2{
+    font-size: 60px;
+    
+}
+.about-text h5{
+    font-size: 25px;
+}
+button{
+    background-color: #f9004d;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    border-radius: 30px ;
+    padding: 5px 22px;
+    font-weight: bold;
+    transition: .4s;
+}
+button:hover{
+    background-color: transparent;
+    border: 2px solid #f9004d;
+}
+
+.sevices{
+    background-color: #101010;
+}
+
+.mycard{
+    background-color: #191919;
+}
+
+.services-text{
+    color: white;
+}
+.mycard-body span i{
+    font-size: 35px;
+}
+
+/* skill start */
+.skills{
+    background-color: #191919;
+}
+
+.skillscard{
+    background-color: #101010;
+}
+
+.skills-text{
+    color: white;
+}
+
+p{
+    color: rgba(255, 255, 255, 0.836);
+}
+.my-contact{
+    height: 400px;
+    background-color: #161414;
+    text-align: center;
+    padding-top: 9rem;
+}
+
+.my-contact p{
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.my-footer{
+    background-color: #101010;
+    height: 100px;
+    padding: 1rem;
+    
+}
+
+.social a{
+    width: 45px;
+    height: 45px;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 10px;
+}
